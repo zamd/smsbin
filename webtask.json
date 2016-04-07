@@ -13,9 +13,10 @@
   "secrets": {
     "AUTH0_DOMAIN": {
       "description": "Auth0 domain"
-    },
+    }
+  },
+  
    "auth0": {
     "scopes": "read:connections update:connections"
    }
-  }
 }
