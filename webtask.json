@@ -5,7 +5,7 @@
   "author": "auth0",
   "description": "This extension will expose a sms bin for passwordless connections",
   "type": "application",
-  "repository": "https://github.com/zamd/smsbin"
+  "repository": "https://github.com/zamd/smsbin",
   "keywords": [
     "auth0",
     "passwordless",
