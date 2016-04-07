@@ -14,8 +14,8 @@
     "AUTH0_DOMAIN": {
       "description": "Auth0 domain"
     },
-    "APIV2_TOKEN": {
-      "description": "API v2 token with create:connection & update:connection scopes"
-    }
+   "auth0": {
+    "scopes": "read:connections update:connections"
+   }
   }
 }
